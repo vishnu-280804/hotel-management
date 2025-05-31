@@ -27,7 +27,7 @@ npm install
 3. **Start the development server**
 
 ```bash
-npm run dev
+node index.js
 ```
 
 Server will run on `http://localhost:5000`.
