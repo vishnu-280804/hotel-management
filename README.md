@@ -14,7 +14,7 @@ Supports user authentication, hotel & room management, and booking functionaliti
 
 ```bash
 git clone https://github.com/vishnu-280804/hotel-management.git
-cd hotel-management-backend
+cd hotel-management
 ```
 
 2. **Install dependencies**
